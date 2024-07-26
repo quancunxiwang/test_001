@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+        验证只输入用户名，不输入密码是否可以登录成功
+        ","1396","test_002","cases","Wed Jul 24 21:50:11 GMT+08:00 2024","passed","Wed Jul 24 21:50:12 GMT+08:00 2024","Test_Login","test_login","",""
+"
+        验证有效的用户名和密码是否可以登录成功
+        ","2893","test_001","cases","Wed Jul 24 21:50:08 GMT+08:00 2024","passed","Wed Jul 24 21:50:11 GMT+08:00 2024","Test_Login","test_login","",""
